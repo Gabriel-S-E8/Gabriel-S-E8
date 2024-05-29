@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Gabriel-S-E8
-- 👀 I’m interested in ... Learning New Things
-- 🌱 I’m currently learning ... (Reactjs/C#)
-- 📫 How to reach me ... +55 16 993031378 or gabrielnup@outlook.com
+## Seja Bem Vindo Meu nome e Gabriel
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Gabriel-S-E8)](https://github.com/anuraghazra/github-readme-stats)
 
