@@ -1,4 +1,4 @@
-## Seja Bem Vindo Meu nome e Gabriel
+## Seja bem vindo, meu nome e Gabriel
 
 </br>
 <div >
